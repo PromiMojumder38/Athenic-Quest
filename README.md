@@ -1,6 +1,6 @@
 # Athenic-Quest
 
-A  collection of brain games.
+A  collection of brain games. You can [install](Setup_AthenicQuest/Release/Setup_AthenicQuest.msi) it in your windows pc.
  
 ## Goals and Details
 
