@@ -1,0 +1,14 @@
+﻿  15Puzzle.cpp
+  Entry.cpp
+  fourInAline.cpp
+  Level1.cpp
+  Level2.cpp
+  Level3.cpp
+  Level4.cpp
+  Level5.cpp
+  LightsOut.cpp
+  ShortestPathEntry.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  15Puzzle.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Athenic Quest.vcxproj -> F:\Visual Studio Projects\Athenic Quest\x64\Debug\Athenic Quest.exe

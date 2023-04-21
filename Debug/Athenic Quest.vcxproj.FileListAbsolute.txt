@@ -1,0 +1,15 @@
+F:\Visual Studio Projects\Athenic Quest\Debug\Athenic Quest.vcxproj.AssemblyReference.cache
+F:\Visual Studio Projects\Athenic Quest\Debug\Athenic Quest.exe
+F:\Visual Studio Projects\Athenic Quest\Debug\AthenicQuest.Entry.resources
+F:\Visual Studio Projects\Athenic Quest\Debug\Athenic Quest.vcxproj.GenerateResource.cache
+F:\Visual Studio Projects\Athenic Quest\Debug\AthenicQuest.15puzzle.resources
+F:\Visual Studio Projects\Athenic Quest\Debug\AthenicQuest.ShortestPathEntry.resources
+F:\Visual Studio Projects\Athenic Quest\Debug\AthenicQuest.Level1.resources
+F:\Visual Studio Projects\Athenic Quest\Debug\AthenicQuest.Level2.resources
+F:\Visual Studio Projects\Athenic Quest\Debug\AthenicQuest.Level3.resources
+F:\Visual Studio Projects\Athenic Quest\Debug\AthenicQuest.Level4.resources
+F:\Visual Studio Projects\Athenic Quest\Debug\AthenicQuest.Tic_tac_toe.resources
+F:\Visual Studio Projects\Athenic Quest\Debug\AthenicQuest.playfour.resources
+F:\Visual Studio Projects\Athenic Quest\Debug\AthenicQuest.all_out.resources
+F:\Visual Studio Projects\Athenic Quest\Debug\AthenicQuest.Guess_The_Function.resources
+F:\Visual Studio Projects\Athenic Quest\Debug\AthenicQuest.Level5.resources

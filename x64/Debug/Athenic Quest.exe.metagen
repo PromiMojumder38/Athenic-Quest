@@ -1,0 +1,76 @@
+  AthenicQuest.15puzzle.resources - Embedded, ContainedInManifestFile, 
+  AthenicQuest.all_out.resources - Embedded, ContainedInManifestFile, 
+  AthenicQuest.Entry.resources - Embedded, ContainedInManifestFile, 
+  AthenicQuest.Guess_The_Function.resources - Embedded, ContainedInManifestFile, 
+  AthenicQuest.Level1.resources - Embedded, ContainedInManifestFile, 
+  AthenicQuest.Level2.resources - Embedded, ContainedInManifestFile, 
+  AthenicQuest.Level3.resources - Embedded, ContainedInManifestFile, 
+  AthenicQuest.Level4.resources - Embedded, ContainedInManifestFile, 
+  AthenicQuest.Level5.resources - Embedded, ContainedInManifestFile, 
+  AthenicQuest.playfour.resources - Embedded, ContainedInManifestFile, 
+  AthenicQuest.ShortestPathEntry.resources - Embedded, ContainedInManifestFile, 
+  AthenicQuest.Tic_tac_toe.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Athenic Quest, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class AthenicQuest.Puzzle15: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    emptyspot(Button, Button): PrivateScope, Public, HideBySig
+    slnchk(): PrivateScope, Public, HideBySig
+Class AthenicQuest.playfour: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class AthenicQuest.allout: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class AthenicQuest.Level5: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    MakePath(Button, Button): PrivateScope, Public, HideBySig
+Class AthenicQuest.Level4: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    MakePath(Button, Button): PrivateScope, Public, HideBySig
+Class AthenicQuest.Level3: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    MakePath(Button, Button): PrivateScope, Public, HideBySig
+Class AthenicQuest.Level2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    MakePath(Button, Button): PrivateScope, Public, HideBySig
+Class AthenicQuest.Level1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    MakePath(Button, Button): PrivateScope, Public, HideBySig
+Class AthenicQuest.ShortestPathEntry: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class AthenicQuest.Tictactoe: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class AthenicQuest.function: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class AthenicQuest.Entry: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
