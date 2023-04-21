@@ -18,7 +18,7 @@ This project aims to motivate the players to use logical reasoning and analytica
 ![Athenic-Quest](images/project1.jpg)
 
 ## Gameplay Instructions 1
-## 5 Puzzle:
+## 15 Puzzle:
 - Move tiles in grid to order them from 1 to 15. 
 - To move a tile, you can click on it
 - When you get them in order from 1 to 15 you win
