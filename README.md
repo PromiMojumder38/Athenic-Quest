@@ -66,14 +66,11 @@ This project aims to motivate the players to use logical reasoning and analytica
 ![image](images/game6.png)
 
 
-## Platform:
-
-<h3>Windows </h3>
+## Platform Windows 
 
 ## Tools Used
-<h4>IDE:<h4> Visual Studio Community 2019<br>
-		<h4>Workload:<h4>
- - Desktop development with c++
+<h4>IDE: Visual Studio Community 2019</h4> 
+<h4>Workload: Desktop development with c++</h4>
  <h4>	Individual components:</h4>
  - Windows forms .NET Framework 4.6.1 targeting pack<br>
  - .NET Framework 4.8 SDK<br>
