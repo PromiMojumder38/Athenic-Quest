@@ -71,7 +71,7 @@ This project aims to motivate the players to use logical reasoning and analytica
 <h3>Windows </h3>
 
 ## Tools Used
-IDE Visual Studio Community 2019<br>
+<h4>IDE:<h4> Visual Studio Community 2019<br>
 		<h4>Workload:<h4>
  - Desktop development with c++
  <h4>	Individual components:</h4>
